@@ -5,4 +5,8 @@ I created a toy robot in this project via OnShape. It's *small* enough to be 3D 
 
 BOM:
 Bambu Lab Silver PLA Basic (or any other colors)
+
+<img width="1159" height="869" alt="IMG_8722" src="https://github.com/user-attachments/assets/50010353-46a2-4429-86df-b3f8f37bcb5d" />
+
+
 <img width="478" height="587" alt="Screenshot 2026-06-28 120011" src="https://github.com/user-attachments/assets/feb8aa21-8e78-4551-9c18-3fbe53e696b3" />
